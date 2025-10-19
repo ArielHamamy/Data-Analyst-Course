@@ -1,4 +1,4 @@
-# Final project from my Data Analyst Course
+# Final project - Data Analyst Course
 
 **Tourism Analytics Case Study — Thailand**
 
