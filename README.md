@@ -1,5 +1,7 @@
 # Final project - Data Analyst Course
 
+📄 [View the Case Study Presentation (PDF)](Tourism_Analytics_Thailand_Presentation.pdf)
+
 **Tourism Analytics Case Study — Thailand**
 
 This project presents a **data-driven A/B test** analyzing tourism performance in Krabi vs. Koh Samui during 2025.
